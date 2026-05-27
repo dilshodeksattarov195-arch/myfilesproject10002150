@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachevalculate",
+        "uuid": 799800,
+        "checksum": "3r3f4s"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
